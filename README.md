@@ -1,2 +1,2 @@
-# Sem01-LO1-Orientation
-Broad orientation on IT related fields
+# Sem01
+Broad orientation on IT-related fields
